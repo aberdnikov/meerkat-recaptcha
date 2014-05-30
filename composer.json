@@ -1,0 +1,24 @@
+{
+	"name": "meerkat/meerkat-recaptcha",
+	"type": "kohana-module",
+	"description": "Recaptcha module for MeerkatCMF (on Kohana 3.3)",
+	"homepage": "http://github.com/meerkat/meerkat-recaptcha",
+	"license": "MIT",
+	"keywords": ["kohana", "module", "meerkat", "recaptcha"],
+	"authors": [
+	 		{
+				"name": "Mike Crawford",
+				"homepage": "http://recaptcha.net",
+				"role": "Developer"
+			},
+			{
+				"name": "Ben Maurer",
+				"homepage": "http://recaptcha.net",
+				"role": "Developer"
+			}
+	],
+	"require": {
+			"php": ">=5.3",
+			"composer/installers": "*"
+	} 	
+}
