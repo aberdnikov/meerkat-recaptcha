@@ -15,7 +15,14 @@
 				"name": "Ben Maurer",
 				"homepage": "http://recaptcha.net",
 				"role": "Developer"
+			},
+			{
+				"name": "Alexey Berdnikov",
+				"email": "aberdnikov@gmail.com",
+				"homepage": "https://github.com/aberdnikov",
+				"role": "Maintainer"
 			}
+			
 	],
 	"require": {
 			"php": ">=5.3",
